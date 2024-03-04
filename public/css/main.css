@@ -163,7 +163,7 @@ p {
 .uncheck-icon-list li::marker {
   content: "\f057";
   font-family: "Font Awesome 5 Free";
-  color: #dc3545;
+  color: #640000;
   font-weight: bold;
 }
 
